@@ -1,0 +1,24 @@
+.Person {
+    width: 40%;
+    border: 2px solid #bbb;
+    padding: 20px 10px;
+    margin:20px auto;
+    font-size: 14px;
+}
+
+.btnNormal {
+    padding: 10px;
+    margin:auto 10px;
+    border:1px solid #000;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.btnDanger {
+    padding: 10px;
+    margin:auto 10px;
+    border:1px solid rgb(82, 3, 3);
+    font-weight: bold;
+    cursor:pointer;
+    color: red;
+}
